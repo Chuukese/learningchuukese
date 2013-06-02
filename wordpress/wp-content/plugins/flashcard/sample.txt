@@ -1,0 +1,10 @@
+文化	culture
+你好	Hello
+你好吗？	How are you?
+我很好。	I’m fine
+你怎么样？	What about you?
+谢谢	Thank you
+大学	n. university
+海滩	n. beach
+一会儿	Just a moment
+饭店	n. restaurant

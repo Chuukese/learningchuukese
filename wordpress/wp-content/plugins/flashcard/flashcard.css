@@ -1,0 +1,38 @@
+.flashcard-container {
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.flashcard-container li {
+    float: left;
+    margin: 6px;
+    position: relative;
+    display:inline;
+}
+
+.flashcard-container li div {
+    overflow: hidden;
+    position: absolute;
+    border: none;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    padding: 10px;
+    background: lightGray;
+}
+
+.flashcard-container li div.back {
+    left: -999em;
+    background: black;
+
+}
+
+.flashcard-container li div h2{
+    display: block;
+    padding: 10px;
+}
+
+.flashcard-container li div.back h2{
+    color: white;
+}
+
